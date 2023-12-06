@@ -14,7 +14,6 @@ Ce dépôt contient du matériel de soutien pour le cours **Algorithmique et pro
 Ce dépôt est organisé comme suit :
 
 - Vous pouvez trouver la présentation PDF du cours [ici](./SUPPORT_ALGORITHMIQUE.pdf)
-- [Les exercices](./exercices/)
 
 ## Formateur
 
